@@ -13,14 +13,14 @@ Computer
 
 
 Electronics
-1
-2
+1EM
+2Digital logic
 
-3
-4
-5
-6
-7
+3Electrical Engineering materials
+4Engineering Mathematics
+5ECT
+6OOP
+7EDC
 8
 
 9
